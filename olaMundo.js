@@ -1,2 +1,1 @@
-console.log("Olá, mundo");
-console.log("Olá Bia")
+console.log("Olá, mundo!");
